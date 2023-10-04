@@ -16,7 +16,7 @@ a {
 
 .container {
     width: 450px;
-    height: 450px;
+    height: 470px;
     margin: 150px auto;
     border-radius: 90px;
     position: relative;
@@ -152,7 +152,11 @@ h6 {
 }
 
 
-
+p {
+    font-family: Poppins;
+    color: white;
+    text-align: center;
+}
 
 
 
